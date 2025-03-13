@@ -1,8 +1,6 @@
 public class Empleado {
     private String nombre;
 
-
-asdasdas 
     public Empleado() {
         this.nombre = "nombre";
     }
